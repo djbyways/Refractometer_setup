@@ -3,9 +3,9 @@ Experiment control and data acquisition
 
 Matlab codes were written to control our experimental setup and collect data.
 
-Gennadiy Derkachov, PhD
-Kwasi Nyandey, MSc
-Daniel Jakubczyk, PhD hab. Eng.
+Gennadiy Derkachov, PhD;
+Kwasi Nyandey, MSc;
+Daniel Jakubczyk, PhD hab. Eng.;
 Anastasiya Derkachova, PhD
 
 collaborated in writing the codes. GD created the concept and wrote the core functions.
